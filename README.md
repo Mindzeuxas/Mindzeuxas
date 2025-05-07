@@ -12,7 +12,7 @@
 - Connect with developers and grow in the tech community
 
 ## 🎵 Fun Fact
-Besides coding, I enjoy **singing** and perform in a **choir**!
+Besides coding I enjoy **singing** and perform in a **choir**!
 
 ## 📫 How to Reach Me
 - 📧 Email: [mindzeuxass@gmail.com](mailto:mindzeuxass@gmail.com)
@@ -38,7 +38,7 @@ Besides coding, I enjoy **singing** and perform in a **choir**!
 - Užmegzti ryšius su programuotojų bendruomene
 
 ## 🎵 Įdomus faktas
-Be programavimo, mėgstu **dainuoti** ir dainuoju **chore**!
+Be programavimo mėgstu **dainuoti** ir dainuoju **chore**!
 
 ## 📫 Kaip su manimi susisiekti
 - 📧 El. paštas: [mindzeuxass@gmail.com](mailto:mindzeuxass@gmail.com)
