@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mindaugas!
 
-🎓 I'm currently a student at **BIT (Baltic Institute of Technology)**, learning to become a **Full-Stack Web Developer**.
+🎓 I'm currently learning to become a **Full-Stack Web Developer**.
 
 ## 💻 Tech Stack
 - Currently learning: **JavaScript**, **HTML**, **CSS**, **DOM**, **API integration**, **Express.js**, **CRUD operations**, **React**, **SQL**
