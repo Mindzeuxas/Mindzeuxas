@@ -26,7 +26,7 @@ Besides coding I enjoy **singing** and perform in a **choir**!
 
 # 👋 Sveiki, aš Mindaugas!
 
-🎓 Šiuo metu studijuoju **BIT (Baltijos technologijų institute)** ir siekiu tapti **Full-Stack žiniatinklio programuotoju**.
+🎓 Baigiau studijas **BIT (Baltijos technologijų institute)** ir siekiu tapti **Full-Stack žiniatinklio programuotoju**.
 
 ## 💻 Technologijos
 - Šiuo metu mokausi: **JavaScript**, **HTML**, **CSS**, **DOM**, **API integracija**, **Express.js**, **CRUD operacijos**, **React**, **SQL**
